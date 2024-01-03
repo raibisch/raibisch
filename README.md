@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 <br>
 ## Keep in touch with me 😊
-<a href="https://linkedin.com/in/raibisch">
+<a href="https://de.linkedin.com/in/raibisch-de-08729b1b2">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://raibisch.de">
