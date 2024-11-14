@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   </b>
   </p>
   
-## ⚡ NEW: view and calculate actual EPEX dynamic electric energy cost with ESP32. 
+## ⚡ NEW: "ESP32_SMART_GRID" : view and calculate actual EPEX dynamic electric energy cost with ESP32. 
 
 Many Subprojects:
  
