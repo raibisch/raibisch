@@ -4,6 +4,7 @@
 
 Here are some ideas to get you started:
 
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -24,12 +25,20 @@ Here are some ideas to get you started:
   I'm currently working at different ESP32 based pojects
   i like to learn new technology and update myself. i also like to contribute in open sources projects
 
-  working with you is already a pleasure for me &#128519;
   </b>
   </p>
+  
+## ⚡ NEW: view and calculate actual EPEX dynamic electric energy cost with ESP32. 
 
-- 🔭 I’m currently have published a Web-App to communicate with a ABL-Wallbox
-- 🌱 I’m currently working on getting CAN-Bus working on ESP32-S2
+Many Subprojects:
+ 
+#### - SMART-Grid switch for Wallbox or Heatpump based on actual EPEX-Price
+#### - view actual EPEX enduser price on M5Stack CoreInk
+#### - Tibber Price-Sumulator (with day and month history function)
+
+... create your ideas based on an universal "SMART_GRID"- LIB 
+
+- 🔭 Web-App to communicate with a ABL-Wallbox
 - 🌱 ...and hacking on the ISOBUS with a M5-Stack project of my college
 
 <br>
