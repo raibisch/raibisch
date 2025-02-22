@@ -23,11 +23,11 @@ Here are some ideas to get you started:
   ## About me &#128513;
   <p>
   I'm currently working at different ESP32 based pojects
-  i like to learn new technology and update myself. i also like to contribute in open sources projects
 
   </b>
   </p>
-  
+
+## ⚡⚡ BRAND NEW: "ESP32_LUXTRONIK2" : Web-App for Luxtronik Heatpump Controller with WebSocket
 ## ⚡ NEW: "ESP32_SMART_GRID" : view and calculate actual EPEX dynamic electric energy cost with ESP32. 
 
 Many Subprojects:
