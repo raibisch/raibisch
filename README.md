@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   </b>
   </p>
 
-## ⚡⚡ brand new: TibberPulse2Marstek: Web-App for Simulation of an energy-meter for zero-power Mode at MARSTEK
+## ⚡⚡ brand new: TibberPulse2Marstek: Web-App for Simulation of an energy-meter for MARSTEK-Venus self-consumption Mode
 ## ⚡"ESP32_LUXTRONIK2" : Web-App for Luxtronik Heatpump Controller with WebSocket  --> Work in progress 
 ## ⚡ Update: "ESP32_SMART_GRID" : view and calculate actual EPEX dynamic electric energy cost with ESP32. 
 
